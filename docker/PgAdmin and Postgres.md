@@ -1,0 +1,3 @@
+ilk basta repodaki flagidle projesindeki docker-compose/ymli calistir. Orda postgres diye bir konteyner olusacak, sonra terminale gel ve docker ps yazarak postgres in container idsini al ve terminale
+doc ker inspect <container_id> | findstr IPAddress yaz ve orda cikan ipaddressini al.
+pgadimini browserdan ac ve servera sag tiklayip register -> server yap. daha sonra server adini ve host kismina da kopyaladigin ip addresini yapistir. sonra dbni olusturabilirsin.
