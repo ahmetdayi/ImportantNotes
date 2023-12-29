@@ -69,3 +69,5 @@ json objesını yapıstır.
 
 ![image](https://github.com/ahmetdayi/ImportantNotes/assets/74869229/8e1abd43-aa5d-48b7-b85e-55bb9115c0fd)
 
+![image](https://github.com/ahmetdayi/ImportantNotes/assets/74869229/af4955e9-463a-4395-9de9-769f23a1418a)
+<img src="https://github.com/ahmetdayi/ImportantNotes/raw/main/assets/74869229/8e1abd43-aa5d-48b7-b85e-55bb9115c0fd" alt="Resim 1" width="300" height="200">
