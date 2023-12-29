@@ -66,3 +66,6 @@ yukardakı docker composeyı calıstırmadan once docker composenın bulundugu k
 }
 
 json objesını yapıstır.
+
+![image](https://github.com/ahmetdayi/ImportantNotes/assets/74869229/8e1abd43-aa5d-48b7-b85e-55bb9115c0fd)
+
